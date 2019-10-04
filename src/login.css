@@ -1,0 +1,23 @@
+#ip1{
+
+    font-style:italic;
+    font-weight: bold;
+  }
+  #ip2 {
+    border-radius: 10px;
+    background: #DFDFDF;
+    border: 2px solid #BBBBBB;
+      
+}
+input::-webkit-input-placeholder {
+    color: #DB5120 !important;
+    } 
+    #ip4{
+        border-radius: 10px;
+        background: #DFDFDF;
+        border: 2px solid #BBBBBB;
+        color: #DB5120 !important;
+        width: 90px;
+        height: 35px;   
+        
+    }

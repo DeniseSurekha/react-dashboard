@@ -1,0 +1,40 @@
+#ip2 {
+    border-radius: 10px;
+    background: #DFDFDF;
+    border: 2px solid #BBBBBB;
+      
+}
+#ip3 {
+    border-radius: 10px;
+    background: #DFDFDF;
+    border: 2px solid #BBBBBB;
+  height:350px;    
+}
+#ip4{
+    border-radius: 10px;
+    background: #DFDFDF;
+    border: 2px solid #BBBBBB;
+    color: #DB5120 !important;
+    width: 90px;
+    height: 35px;   
+}
+#ip5{
+    border-radius: 1px;
+    background: #DFDFDF;
+    border: 2px solid #747474;
+
+}
+ input::-webkit-input-placeholder {
+    color: #DB5120 !important;
+    } 
+    .placeholder {
+        color:red !important;
+    }
+  select option{
+      color:red !important;
+  }
+  #ip1{
+
+    font-style:italic;
+    font-weight: bold;
+  }
